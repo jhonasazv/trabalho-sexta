@@ -6,6 +6,8 @@ baixar o composer
 
 digitar no terminal do projeto(composer install)
 
+mudar o .env.example para env
+
 digitar no terminal do projeto(php artisan key:generate)
 
 por fim digitar (php artisan serve) para rodar
