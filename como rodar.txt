@@ -1,0 +1,22 @@
+===== 1 opção direto
+
+baixar php 8.5/8.4
+
+baixar o composer
+
+digitar no terminal do projeto(composer install)
+
+digitar no terminal do projeto(php artisan key:generate)
+
+por fim digitar (php artisan serve) para rodar
+
+===== 2 opção docker
+
+ter docker (dah)
+
+digitar no terminal
+1 docker build -t snake-app .
+
+2 docker run -p 8000:8000 snake-app
+
+e pronto, rodando
